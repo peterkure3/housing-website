@@ -24,7 +24,7 @@ const Banner = () => {
 
                 {/* image */}
                 <div className='hidden flex-1 lg:flex justify-end items-end'>
-                    <Image src='/src/app/house.png' alt="house" width={850} height={700}/>
+                    <Image src='https://images.unsplash.com/photo-1568605114967-8130f3a36994?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aG91c2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60' alt="house" width={850} height={700}/>
                 </div>
             </div>
             <Search />
