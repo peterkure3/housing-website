@@ -1,9 +1,13 @@
 import React from 'react'
+// import HouseList from '@/components/HouseList';
+import Banner from '@/components/Banner';
+// import HouseList from '@/components/HouseList';
 
 const Home = () => {
   return (
     <div>
-      Home
+      <Banner />
+      {/* <HouseList /> */}
     </div>
   )
 }
